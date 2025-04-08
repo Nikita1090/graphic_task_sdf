@@ -1,3 +1,6 @@
+[LiteMath Repository](https://github.com/litemath/litemath)
+
+
 # SdfTaskTemplate
 Template for task 1 (Signed Distance Fields). Part of Forward and Inverse Rendering (FAIR) course, CMC MSU, Spring 2025.
 
