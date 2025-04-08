@@ -1,0 +1,3 @@
+[submodule "path/to/litemath"]
+    path = path/to/litemath
+    url = https://github.com/litemath/litemath.git
